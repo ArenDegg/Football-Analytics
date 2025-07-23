@@ -1,6 +1,6 @@
 # ⚽ English Premier League Football Analytics
 
-This project explores match data from the English Premier League (EPL) between 2000 and 2025. Using Python and data visualisation tools, we uncover insights into team performance, goal trends, fouls, and more.
+This project explores match data from the English Premier League (EPL) between 2000 and 2025. Using Python and data visualisation tools, we uncover insights into some of these stats.
 
 ## 📊 Dataset
 - **Source**: [Kaggle - EPL Match Data 2000–2025](https://www.kaggle.com/datasets/marcohuiii/english-premier-league-epl-match-data-2000-2025)
